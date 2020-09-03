@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 [website]: https://aswarth123.github.io/
 [twitter]: https://twitter.com/Aswarthnarayan2
-[linkedin]: https://www.linkedin.com
+[linkedin]:https://www.linkedin.com/in/aswarth-narayana-c-v-62a0b0198/
