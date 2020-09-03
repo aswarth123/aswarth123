@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**aswarth123/aswarth123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I am Aswarth👋
+## I am a Python developer and ML enthusiast. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my IT and python skills.
+- 🌱 I’m currently learning basics of machine learning.
+- 💬 Ask me about python, bash.
+- 😄 Pronouns: he/him
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|**  
+👔 [linkedin][linkedin]
+
+
+[website]: https://aswarth123.github.io/
+[twitter]: https://twitter.com/Aswarthnarayan2
+[linkedin]: https://www.linkedin.com/in/aswarth-narayana-c-v-62a0b0198/
