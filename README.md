@@ -8,11 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about python, bash.
 - 😄 Pronouns: he/him
 
-
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|**  
 👔 [linkedin][linkedin]
-
 
 [website]: https://aswarth123.github.io/
 [twitter]: https://twitter.com/Aswarthnarayan2
