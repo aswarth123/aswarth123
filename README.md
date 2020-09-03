@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|**  
+🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
 
 [website]: https://aswarth123.github.io/
