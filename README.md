@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|**  
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
 
 
 [website]: https://aswarth123.github.io/
