@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 [website]: https://aswarth123.github.io/
 [twitter]: https://twitter.com/Aswarthnarayan2
 [linkedin]:https://www.linkedin.com/in/aswarth-narayana-c-v-62a0b0198/
+
+[![aswarth123's github stats](https://github-readme-stats.vercel.app/api?username=aswarth123)](https://github.com/anuraghazra/github-readme-stats)
