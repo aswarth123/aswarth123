@@ -1,7 +1,6 @@
 ### Hi there I am Aswarth👋
 ## I am a Python developer and ML enthusiast. 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my IT and python skills.
 - 🌱 I’m currently learning basics of machine learning and about node.js
