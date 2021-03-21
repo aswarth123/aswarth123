@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on improving my IT and python skills.
-- 🌱 I’m currently learning basics of machine learning and about node.js
+- 🌱 I’m currently learning basics of Deep learning and about opencv
 - 💬 Ask me about python, bash.
 - 😄 Pronouns: he/him
 
