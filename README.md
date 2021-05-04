@@ -2,7 +2,7 @@
 ## I am a Python developer and ML enthusiast. 
 
 
-- 🔭 I’m currently working on improving my IT and python skills.
+- 🔭 I’m currently working on improving my ML and Image processing skills.
 - 🌱 I’m currently learning basics of Deep learning and about opencv
 - 💬 Ask me about python, bash.
 - 😄 Pronouns: he/him
