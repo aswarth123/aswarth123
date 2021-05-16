@@ -21,3 +21,4 @@
 
 ## Frameworks and Languages
 ![alt text](https://img.icons8.com/color/96/000000/tensorflow.png) ![alt text](https://img.icons8.com/color/96/000000/python.png)  ![alt text](https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png)  ![alt text](https://img.icons8.com/color/96/000000/postgreesql.png) ![alt text](https://img.icons8.com/color/96/000000/javascript.png) ![alt text](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswarth123&label=Profile%20views&color=0e75b6&style=flat" alt="aswarth123" /> </p>
