@@ -1,6 +1,5 @@
 ### Hi there I am Aswarth👋
-## I am a 
-
+## I am a budding researcher in Distributed and On Device Machine learning 
 
 - 🔭 I’m currently working on improving my ML and Image processing skills.
 - 🌱 I’m currently learning basics of Deep learning and about opencv
