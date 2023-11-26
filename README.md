@@ -1,5 +1,5 @@
 ### Hi there I am Aswarth👋
-## I am a Python developer and ML enthusiast. 
+## I am a 
 
 
 - 🔭 I’m currently working on improving my ML and Image processing skills.
@@ -8,12 +8,13 @@
 - 😄 Pronouns: he/him
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|**
+**x**  [twitter][twitter] **|**
 👔 [linkedin][linkedin] **|**
 🔭 [kaggle][kaggle]
 
 [website]: https://aswarth123.github.io/
 [linkedin]:https://www.linkedin.com/in/aswarth-narayana-c-v-62a0b0198/
+[twitter]:https://twitter.com/c_aswarth
 [kaggle]: https://www.kaggle.com/aswarthnarayanacv
 
 [![aswarth123's github stats](https://github-readme-stats.vercel.app/api?username=aswarth123)](https://github.com/anuraghazra/github-readme-stats)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswarth123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
