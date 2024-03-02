@@ -3,7 +3,7 @@
 
 [- 🔭 I’m currently working on ]:#
 [- 🌱 I’m currently learning basics of Deep learning and about opencv]:#
-- 💬 Ask me about pytorch, python, C, C++.
+- 💬 Ask me about pytorch, tensorflow, python, C, C++.
 - 😄 Pronouns: he/him
 
 🏡 [website][website] **|** 
